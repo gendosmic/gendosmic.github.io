@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gendosmic.github.io/sitemap.html.gz
+Sitemap: https://gendosmic.github.io/app/sitemap.html.gz
+Sitemap: https://gendosmic.github.io/assets/sitemap.html.gz
+Sitemap: https://gendosmic.github.io/css/sitemap.html.gz
+Sitemap: https://gendosmic.github.io/includes/sitemap.html.gz
+Sitemap: https://gendosmic.github.io/item/sitemap.html.gz
+Sitemap: https://gendosmic.github.io/src/sitemap.html.gz
